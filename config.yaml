@@ -1,0 +1,8 @@
+coinbase:
+  websocket_url: wss://ws-feed.pro.coinbase.com
+  channels:
+    - BTC-USD
+    - ETH-USD
+    - ETH-BTC
+vwap:
+  data_points: 200
